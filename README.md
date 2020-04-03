@@ -9,5 +9,7 @@ Implementar um sistema que integre as informações das atividades demandas pela
 # Objetivo Especifico
 
 •	Substituir o caderno de papel por um caderno de campo digital: software;
+
 •	Possibilitar ao produto de uva ter informações a poucos cliques;
+
 •	Acompanhar os apontamentos de atividades projetadas para a safra estão de acordo com as metas;
